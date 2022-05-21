@@ -31,7 +31,7 @@
  
 <div align = 'center'>
  <h4>
-  You can see some of the works that I have done and uploaded to GitHub at 👉 https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white<a href="[url](https://github.com/pakawatkung?tab=repositories)">Repo</a>
+  You can see some of the works that I have done and uploaded to GitHub at 👉<img alt="[Alt text](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)" src="<[copied link](https://github.com/pakawatkung?tab=repositories)>"/>
  </h4>  
 </div>
 

@@ -35,5 +35,5 @@
  </h4>  
 </div>
 
-![Alt text](<[copied link](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)>)
+![Alt text](<https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white>)
 

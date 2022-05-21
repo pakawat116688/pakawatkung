@@ -32,7 +32,7 @@
 <div align = 'center'>
  <h4>
   You can see some of the works that I have done and uploaded to GitHub at 👉<a href="https://github.com/pakawatkung?tab=repositories">
-![Alt text](<https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white>)
+![Alt text](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 </a>
  </h4>  
 </div>

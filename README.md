@@ -4,9 +4,9 @@
  
 
  <p>
-   <h4>
+   <h3>
      Bachelor's degree in Computer Engineering Suranaree University of Technology <br><br>
-   </h4>
+   </h3>
   </p>
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakawatkung&theme=dracula)

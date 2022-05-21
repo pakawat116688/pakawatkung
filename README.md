@@ -27,7 +27,7 @@
 - 🎉 I will finish my bachelor's degree on July 13, 2022.<br>
 - 🏆 I am looking for a job as a Go Developer, RPA Developer, Backend Developer, SAP RPA Process Analyst & Developer, Software Analyst.<br>
  
- 
+ <font color="#FF33FF"> Repsoitories </font>
  
  You can see some of the works that I have done and uploaded to GitHub at <font color="#FF33FF"> Repsoitories </font>
 

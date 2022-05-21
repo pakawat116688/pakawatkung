@@ -7,7 +7,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pakawatkung&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pakawatkung&theme=dracula&utcOffset=7)
 
-<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakawatkung&show_icons=true&theme=synthwave) 
-</p>  
+ 
 

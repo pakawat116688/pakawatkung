@@ -31,7 +31,7 @@
  
 <div align = 'center'>
  <h4>
-  You can see some of the works that I have done and uploaded to GitHub at 👉 <img alt="Repsoitories" src="<https://github.com/pakawatkung?tab=repositories>"/> Repsoitories 
+  You can see some of the works that I have done and uploaded to GitHub at 👉 <img src="<https://github.com/pakawatkung?tab=repositories>"/> 
  </h4>  
 </div>
 

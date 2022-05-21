@@ -5,7 +5,7 @@
 
  <p>
    <h4>
-     Bachelor's degree in Computer Engineering Suranaree University of Technology <br><br>
+     🎃 Bachelor's degree in Computer Engineering Suranaree University of Technology 🎃<br><br>
    </h4>
   </p>
  

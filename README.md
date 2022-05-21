@@ -2,6 +2,11 @@
 
 <div align = 'center'>
  
+ <p>
+   <strong>
+     Bachelor's degree in Computer Engineering Suranaree University of Technology <br>
+   </strong>
+  </p>
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakawatkung&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pakawatkung&theme=dracula)

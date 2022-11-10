@@ -21,14 +21,6 @@
 
  
  </div>
- 
- <h3> About me: </h3>
-- ⚡ I am currently a student intern as SAP ABAP programmer at Phoenix Total Solution Co., Ltd.<br>
-- 🎉 I will finish my bachelor's degree on July 13, 2022.<br>
-- 🏆 I am looking for a job as a Go Developer, RPA Developer, Backend Developer, SAP RPA Process Analyst & Developer, <br>
-     &nbsp; &nbsp; &nbsp; &nbsp; Software Analyst or Software Engineer.<br><br>
-
-</div><br><br>
 
 <div align = 'center'>
   You can see some of the works that I have done and uploaded to GitHub at <br><br>

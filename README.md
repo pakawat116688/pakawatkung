@@ -7,6 +7,9 @@
    <h4>
      🎃 Bachelor's degree in Computer Engineering Suranaree University of Technology 🎃<br><br>
    </h4>
+   <h1>
+     🎃 Now, I'm a Software Developer 🎃<br><br>
+   </h1>
   </p>
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakawatkung&theme=dracula)

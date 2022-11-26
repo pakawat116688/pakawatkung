@@ -8,7 +8,7 @@
      🎃 Bachelor's degree in Computer Engineering Suranaree University of Technology 🎃<br><br>
    </h4>
    <h1>
-     🎃 Now, I'm a Junior Software Developer 🎃<br><br>
+     🎃 Now, I'm a Junior Backend Dev 🎃<br><br>
    </h1>
   </p>
  

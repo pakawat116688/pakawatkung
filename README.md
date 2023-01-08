@@ -10,9 +10,9 @@
    <h4>
      🎃 Formerly working as Junior Information security engineer at MFEC. 🎃<br><br>
    </h4>
-   <h3>
-     🎃🤖🧑‍💻 Now, I'm a Junior Go Developer 🧑‍💻🤖🎃<br><br>
-   </h3>
+   <h4>
+     🎃🤖🧑‍💻 Formerly working as Junior Go Developer 🧑‍💻🤖🎃<br><br>
+   </h4>
   </p>
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakawatkung&theme=dracula)

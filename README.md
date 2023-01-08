@@ -1,19 +1,19 @@
 ### Hi, I'm Pakawat Penpoom 🐱‍🏍
 
-<div align = 'center'>
- 
-
  <p>
    <h4>
      🎃 Bachelor's degree in Computer Engineering Suranaree University of Technology. 🎃<br><br>
    </h4>
    <h4>
-         💻 Formerly working as Junior Information security engineer at MFEC. 💻<br>
+    💻 Formerly working as Junior Information security engineer at MFEC. 💻<br>
     💻 Formerly working as Junior Go Developer at Piror Solution. 💻<br><br>
    </h4>
   
    
   </p>
+
+<div align = 'center'>
+ 
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakawatkung&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pakawatkung&theme=dracula)

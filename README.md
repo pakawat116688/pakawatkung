@@ -2,7 +2,7 @@
 
  <p>
    <h4>
-     🎃 Bachelor's degree in Computer Engineering Suranaree University of Technology. 🎃<br><br>
+                                        🎃 Bachelor's degree in Computer Engineering Suranaree University of Technology. 🎃<br>
    </h4>
    <h4>
     💻 Formerly working as Junior Information security engineer at MFEC. 💻<br>

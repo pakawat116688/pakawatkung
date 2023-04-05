@@ -1,4 +1,4 @@
-### Hi, I'm Pakawat Penpoom 🐱‍🏍
+### Hello, I'm Pakawat Penpoom 🐱‍🏍
 
  <p>
    <h4>
@@ -26,7 +26,7 @@
 
 
  
- </div>
+ </div style="background-color: blue;">
 
 <div align = 'center'>
   You can see some of the works that I have done and uploaded to GitHub at <br><br>
